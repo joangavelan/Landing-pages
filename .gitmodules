@@ -1,0 +1,3 @@
+[submodule "Easybank"]
+	path = Easybank
+	url = https://github.com/joangavelan/Easybank.git
